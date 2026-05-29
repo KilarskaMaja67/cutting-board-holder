@@ -1,7 +1,7 @@
 # cutting-board-holder
 
-A parametric 3D-printable mounting bracket designed in OpenSCAD and optimized for slicing in Ultimaker Cura. This component features robust structural alignment pins, integrated cross-bracing rods, and an angled structural base to securely hold circuit boards or hardware components in place.
-
+A parametric 3D-printable mounting bracket designed in OpenSCAD and optimized for slicing in Ultimaker Cura. This component features robust structural alignment pins, integrated cross-bracing rods, and an angled structural base to securely hold cutting boards (or other) in place. The idea is that the model is placed by a wall, which would allow the boards to lean against it while being stopped from sliding and falling by the footer.
+,
 ![Model Preview](assets/screenshot_openscad.png)
 
 ---
